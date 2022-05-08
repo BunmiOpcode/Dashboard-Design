@@ -696,6 +696,10 @@ main .recent-orders a{
         display: none;
     }
 
+    .right .profile .info .profile-photo{
+        display: none;
+    }
+
     .right .top button{
         display: inline-block;
         background: transparent;
